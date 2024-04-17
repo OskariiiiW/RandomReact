@@ -1,0 +1,14 @@
+[
+    {
+        "kayttajaId" : 1,
+        "kayttajatunnus" : "xlpizza",
+        "salasana" : "a6aa03d63bf54ecbd8a40e206b696e80ab1ab18030d050473c4ac8507b8ffa0747bf20518433ce6b98e91f30354fb39218654dc8dc18795b846b05a43f6ddd44",
+        "sukupuoli" : "mies"
+    },
+    {
+        "kayttajaId" : 2,
+        "kayttajatunnus" : "testi",
+        "salasana" : "1a583c12263cae4f81fa4a6127769343d315cab82cc5fcac7282924bfef2b680ef55f4d68e7e71b28be43d99872640e31180aaee1ee5fe7058c1b17cd81c6466",
+        "sukupuoli" : "muu"
+    }
+]
