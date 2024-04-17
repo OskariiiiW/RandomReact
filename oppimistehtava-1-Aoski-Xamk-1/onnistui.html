@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tilaa uutiskirje</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<style>
+    head, body{
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-left: 50px;
+    text-align: center;
+    }
+    .container{
+        max-width: 960px;
+    }
+    .tekstit{
+        width:41.66666667%;
+    }
+    .input{
+        padding:10px;
+        padding-left: 20px;
+        width:70%;
+        margin-bottom:10px;
+    }
+    .nappi{
+        width:150px;
+        padding-top:10px;
+        padding-bottom:10px;
+        font-size: 20px;
+        color:white;
+        background-color: #0d6efd;
+        border-color: #0d6efd;
+        border-radius: .25rem;
+        margin-top:20px;
+    }
+</style>
+<body>
+    <div class="container">
+        <div class="tekstit">
+            <h1>Tilaa uutiskirje</h1>
+
+            <form method="GET" action="http://localhost:3101/tarkistus">
+            <input class="input" type="text" name="nimi" placeholder="Anna nimesi"></input></br>
+            <input class="input" type="text" name="email" placeholder="Anna sähköpostiosoitteesi"></input>
+
+            <div>
+                <label>
+                    <input type="checkbox" name="kayttoehdot" value="hyvaksytty">
+                    Olen lukenut ja hyväksyn käyttöehdot
+                </label>
+            </div>
+
+            <div>
+                <button class="nappi" type="submit">Lähetä tiedot</button>
+            </div>
+            </form>
+
+        </div>
+    </div>
+</body>
+</html>

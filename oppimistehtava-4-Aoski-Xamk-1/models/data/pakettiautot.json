@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "reitti": "GVVVVVVVVVV",
+    "ajetutKM": 233,
+    "tunniste": 123,
+    "paivays": "12.3.1999"
+  },
+  {
+    "id": 2,
+    "reitti": "GVVVVVVVVVV",
+    "ajetutKM": 233,
+    "tunniste": 123,
+    "paivays": "15.3.1999"
+  },
+  {
+    "id": 3,
+    "reitti": "AAAAAAA",
+    "ajetutKM": 2000,
+    "tunniste": 123,
+    "paivays": "12.5.1999"
+  }
+]

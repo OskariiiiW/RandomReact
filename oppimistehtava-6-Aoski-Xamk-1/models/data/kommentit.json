@@ -1,0 +1,50 @@
+[
+  {
+    "kommenttiId": 1,
+    "uutisId": 1,
+    "kayttajatunnus": "muumipappa",
+    "kommentti": "onpas kuuma",
+    "aikaleima": "12.2.2022"
+  },
+  {
+    "kommenttiId": 2,
+    "uutisId": 1,
+    "kayttajatunnus": "muumipappa",
+    "kommentti": "onpas kylmä",
+    "aikaleima": "14.2.2022"
+  },
+  {
+    "kommenttiId": 3,
+    "uutisId": 1,
+    "kayttajatunnus": "mörkö",
+    "kommentti": "möööööööööö",
+    "aikaleima": "12.2.2022"
+  },
+  {
+    "kommenttiId": 4,
+    "uutisId": 1,
+    "kayttajatunnus": "null",
+    "kommentti": "fghjklö",
+    "aikaleima": "13.02.2022"
+  },
+  {
+    "kommenttiId": 5,
+    "uutisId": 1,
+    "kayttajatunnus": "null",
+    "kommentti": "mmmmmm",
+    "aikaleima": "13.02.2022"
+  },
+  {
+    "kommenttiId": 6,
+    "uutisId": 1,
+    "kommentti": "mmmmmmlmlmlm",
+    "aikaleima": "13.02.2022"
+  },
+  {
+    "kommenttiId": 7,
+    "uutisId": 1,
+    "kayttajatunnus": "props.token.kayttajatunnus",
+    "kommentti": "kokokokko",
+    "aikaleima": "27.02.2022"
+  }
+]

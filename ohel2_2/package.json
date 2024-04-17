@@ -1,0 +1,14 @@
+{
+  "name": "ohel2_2",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx nodemon index.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.8",
+    "express": "^4.17.2"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "koko": 42,
+    "vari": "pinkki",
+    "varastotilanne": 9
+  },
+  {
+    "id": 12,
+    "koko": 42,
+    "vari": "pinkki",
+    "varastotilanne": 9
+  },
+  {
+    "id": 41,
+    "koko": 50,
+    "vari": "harmaa",
+    "varastotilanne": 119
+  },
+  {
+    "id": 42,
+    "koko": 22,
+    "vari": "valkoinen",
+    "varastotilanne": 0
+  }
+]
