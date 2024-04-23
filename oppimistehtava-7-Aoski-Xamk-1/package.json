@@ -12,7 +12,7 @@
     "date-fns": "^2.28.0",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
-    "sanitize-html": "^2.7.0"
+    "sanitize-html": "^2.12.1"
   },
   "devDependencies": {
     "prisma": "^3.9.2"
